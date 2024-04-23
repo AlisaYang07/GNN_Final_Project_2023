@@ -5,4 +5,4 @@ Graph datasets can be a rich source of information in fields such as Finance, si
  
 ![image](https://github.com/AlisaYang07/GNN_Final_Project_2023/assets/61921004/6513a2c1-719f-48a4-baa2-5cf102cf14f2)
 
-Note: This paper resulted from research conducted at my internship at CPP Investment and is presented to partially fullfil the graduating conditions of Masters of Applied Computing (2023) program.
+Note: This paper resulted from research conducted at my internship at CPP Investment and was presented at Applied Research in Action (ARIA) 2023. 
